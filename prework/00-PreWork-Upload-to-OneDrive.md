@@ -35,7 +35,7 @@ Before uploading, confirm the following. If any is missing, contact your IT/Copi
 2. Open **OneDrive**.
 3. Click **+ Add new → Folder**.
 4. Name it: **Copilot Legal Session**.
-
+5. Download from the assets folder - https://github.com/opsgility/oldnationalbank/tree/main/assets
 ---
 
 ## Step 3 — Upload the sample documents
